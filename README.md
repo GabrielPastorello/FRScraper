@@ -43,7 +43,7 @@ For documentation about the API methods refer to [the documentation](https://git
 
 ## 🔌 Example of use
 ```
-import FRScraper
+from FRScraper import FRScraper
 ```
 
 ```
