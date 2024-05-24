@@ -4,7 +4,7 @@ For code examples, check the `examples.py` file.
 
 **Importing:**
 ```
-import FRScraper
+from FRScraper import FRScraper
 ```
 
 **Functions:**
